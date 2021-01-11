@@ -6,14 +6,12 @@
 
 .container{
   text-align: center;
-  height: 100%;
-  width: 1280px;
+  max-width: 1280px;
   margin: auto;
 }
 
 .table-wrapper{
   text-align: left;
-  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
